@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: frontend
-        image: muriithiken/udagram-frontend:v1
+        image: muriithiken/udagram-frontend:v3
         ports:
         - containerPort: 80
         resources:
